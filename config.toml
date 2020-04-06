@@ -1,0 +1,5 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Allcom Network"
+theme = "hugo-theme-techdoc"
+publishDir = "docs"
