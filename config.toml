@@ -1,0 +1,41 @@
+baseURL = "https://example.com"
+languageCode = "en-us"
+title = "Allcom"
+theme = "anubis"
+paginate = 3
+publishDir = "docs"
+
+disqusShortname = ""
+googleAnalytics = ""
+
+[author]
+  name = "Shanghai Allcom"
+
+[params]
+   author = "Shanghai Allcom"
+   description = "Anubis is a simple minimalist theme for Hugo blog engine."
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Archive"
+    identifier = "archive"
+    url = "/posts/"
+    weight = 3
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"

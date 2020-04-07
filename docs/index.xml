@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Allcom</title>
+    <link>https://example.com/</link>
+    <description>Allcom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Apr 2020 11:46:07 +0800</lastBuildDate>
+    
+    <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>News</title>
+      <link>https://example.com/post/news/</link>
+      <pubDate>Tue, 07 Apr 2020 11:46:07 +0800</pubDate>
+      
+      <guid>https://example.com/post/news/</guid>
+      <description>&lt;p&gt;Lorem Ipsum.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Webrtc</title>
+      <link>https://example.com/post/webrtc/</link>
+      <pubDate>Tue, 07 Apr 2020 00:15:08 +0800</pubDate>
+      
+      <guid>https://example.com/post/webrtc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efax</title>
+      <link>https://example.com/post/efax/</link>
+      <pubDate>Tue, 07 Apr 2020 00:14:59 +0800</pubDate>
+      
+      <guid>https://example.com/post/efax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aboutus</title>
+      <link>https://example.com/post/aboutus/</link>
+      <pubDate>Tue, 07 Apr 2020 00:14:51 +0800</pubDate>
+      
+      <guid>https://example.com/post/aboutus/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
